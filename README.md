@@ -2,7 +2,8 @@
 Dual DVI Interface Powered By RP2040
 
 ## Hardware
-- https://oshwhub.com/GloomyGhost/yuzukihd2040
+- OSHWHub: https://oshwhub.com/GloomyGhost/yuzukihd2040
+- IBOM: https://yuzukihd.gloomyghost.com/YuzukiHD2040/
 
 ## License
 
