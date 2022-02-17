@@ -88,4 +88,13 @@ static const struct dvi_serialiser_cfg not_hdmi_featherwing_cfg = {
 	.invert_diffpairs = true
 };
 
+// YuzukiHD2404 Board
+static const struct dvi_serialiser_cfg yuzuki_hd_2040 = {
+	.pio = DVI_DEFAULT_PIO_INST,
+	.sm_tmds = {0, 1, 2},
+	.pins_tmds = {10, 12, 14},
+	.pins_clk = 8,
+	.invert_diffpairs = true
+};
+
 #endif
